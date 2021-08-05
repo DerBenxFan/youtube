@@ -1,0 +1,11 @@
+---
+name: YouTube
+main: yt\Main
+version: 1.2.1
+api:
+- 3.9.0
+author: DerBenxFan10
+commands:
+  yt:
+    description: §l§adas ist unserer YouTube Kanal
+...
